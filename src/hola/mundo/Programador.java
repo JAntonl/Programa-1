@@ -9,5 +9,7 @@ package hola.mundo;
  * @author Kickh
  */
 public class Programador {
+    public static void main(String[] args) {
+      System.out.println("¡Hola, mundo!");
     
 }
